@@ -1,23 +1,37 @@
-A full-featured Inventory Management System built using Java (JSP/Servlets), ideal for managing products, employees, and customers efficiently.
+📦 Inventory Management System – Java (JSP/Servlets)
+A comprehensive Inventory Management System developed in Java using JSP and Servlets, designed to streamline the management of products, employees, and customers with ease and efficiency.
 
-🚀 Features
-✅ User Authentication (Login/Logout)
-📦 Product Management (Add, Edit, Delete, View)
-👷 Employee Management (Add, View, Edit/Delete, Attendance, Payroll)
-👥 Customer Management
-🧾 Stock Alerts & Quantity Monitoring
-📊 Dashboard Overview
+🚀 Key Features
+✅ Secure User Authentication (Login & Logout)
+
+📦 Product Management – Add, update, delete, and view products
+
+👷 Employee Management – Handle employee records, attendance, and payroll
+
+👥 Customer Management – Manage customer details and history
+
+🔔 Stock Monitoring – Get alerts for low stock and track quantities
+
+📊 Admin Dashboard – View summary reports and system overviews
+
 🛠️ Technologies Used
-Java Servlet & JSP
-MySQL Database
-JDBC
-Apache Tomcat
-NetBeans IDE (8.2)
-🗄️ Database Schema
-Tables used:
+Java (JSP/Servlets)
 
-users — for login
-products — product details
-employees — employee records
-customers — customer information
-attendance, salary- employee information
+MySQL Database
+
+JDBC
+
+Apache Tomcat
+
+NetBeans IDE (v8.2)
+
+🗄️ Database Schema Overview
+users – Stores login credentials and roles
+
+products – Contains product details
+
+employees – Holds employee data
+
+customers – Stores customer information
+
+attendance, salary – Tracks attendance and salary records of employees
